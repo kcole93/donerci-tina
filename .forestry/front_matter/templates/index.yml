@@ -18,5 +18,3 @@ fields:
       format: markdown
   label: Description
   description: The meta-description for search engines.
-pages:
-- content/pages/index.md
